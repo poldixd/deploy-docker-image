@@ -6,6 +6,7 @@ MAINTAINER Nils Poltmann <dev@nils.li>
 RUN apk update \
  && apk upgrade \
  && apk add --no-cache \
+            bash \
             rsync \
             openssh-client \
             zip \
