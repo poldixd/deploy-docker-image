@@ -1,5 +1,5 @@
 # https://hub.docker.com/_/alpine/
-FROM alpine:3.6
+FROM alpine:3.7
 
 MAINTAINER Nils Poltmann <dev@nils.li>
 
